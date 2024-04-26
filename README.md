@@ -18,10 +18,10 @@
 <img width="5%" title="Allure TestOps" src="images/AllureTestOps.png">
 <img width="6%" title="Gradle" src="images/gradle-original.svg">
 <img width="6%" title="JUnit5" src="images/junit-original-wordmark.svg">
-<img width="6%" title="GitHub" src="github-original-wordmark.svg">
-<img width="6%" title="Jenkins" src="jenkins-original.svg">
 <img width="5%" title="Jira" src="images/jira-original-wordmark.svg">
 <img width="5%" title="Confluence" src="images/confluence-original-wordmark.svg">
+<img width="6%" title="GitHub" src="images/github-original-wordmark.svg">
+<img width="6%" title="Jenkins" src="images/jenkins-original.svg">
 </p>
 
 
